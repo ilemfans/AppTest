@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mysqltest3</string>
+    <string name="hello">Hello World, AndroidConnectingToPhpMySQLActivity!</string>
+</resources>
